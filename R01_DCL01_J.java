@@ -1,4 +1,4 @@
-class Vector {
+class MyVector {
   private int val = 1;
  
   public boolean isEmpty() {
